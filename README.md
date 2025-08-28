@@ -5,7 +5,7 @@ FreeDOS is a free and open-source operating system that works like the old MS-DO
 > 💡 **Note:** You may see some older or newer Laptops or newer SSD/HDD for PC builds with “No OS installed.” In reality, they sometimes come with **FreeDOS pre-installed** as a placeholder operating system!
 
 It's not 32-Bit or 64-Bit. It's 16-Bit!
-
+You can restart  or shutdown by typing "reboot" or "shutdown" and that's it!
 
 ## Includes
 - Command-line interface (DOS shell)  
