@@ -1,4 +1,4 @@
-# FreeDOS
+# [FreeDOS](https://freedos.org)
 
 ## About
 FreeDOS is a free and open-source operating system that works like the old MS-DOS. Started in 1994, it lets you run old programs, apps, and classic games on modern PCs. People use it for retro gaming, system recovery, and firmware updates. It’s simple, fast, and lightweight.
