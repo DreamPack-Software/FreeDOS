@@ -29,15 +29,25 @@ Enjoy the freedom!
 ### 1. FreeDOS for everyone
 Most users should use this to install FreeDOS. We recommend using a PC emulator or virtual machine to install FreeDOS. If you don't want to install, you can boot the LiveCD to try it out. Install extra programs from the BonusCD.
 
-[LiveCD](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-LiveCD.zip) [BonusCD](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-BonusCD.zip)
+[LiveCD](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-LiveCD.zip)    [BonusCD](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-BonusCD.zip)
 
-### 2. FreeDOS for real hardware
+### 2. FreeDOS for real hardwares
 For real hardware
 If you want to install FreeDOS on real hardware without a CD-ROM drive, use the FullUSB instead. The LiteUSB installs the same version of FreeDOS, but contains fewer of the extra programs
 
-[FullUSB](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-FullUSB.zip) [LiteUSB](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-LiteUSB.zip)
+[FullUSB](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-FullUSB.zip)    [LiteUSB](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-LiteUSB.zip)
+
+### 3. FreeDOS for older hardwares
+If your system doesn't support booting from the LiveCD, try installing with the LegacyCD. This installs the same FreeDOS 1.4, but uses a different boot method. Use the BonusCD to install the extra programs.
+
+[LegacyCD](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-LegacyCD.zip)    [BonusCD](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-BonusCD.zip)
+
+### 4. VMware for classic hardwares
+FreeDOS 1.4 includes a floppy-only edition! This edition should run on any original IBM PC system, including the PC, XT, and AT. Provides versions for 720kB, 1.2MB, and 1.44MB floppy disks.
+
+[Floppy Edition](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-FloppyEdition.zip)
+
+[for more information, visit official website of FreeDOS!](https://freedos.org/download)
 
 
-
-
-2025. DreamPack Software (R)
+2025.(C) DreamPack Software (R)
