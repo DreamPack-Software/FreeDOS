@@ -25,4 +25,19 @@ You can restart  or shutdown by typing "reboot" or "shutdown" and that's it!
 NOTE: Some commands of Windows Command Prompt doesn't works on FreeDOS. and some FreeDOS commands doesn't work on Windows Command Prompt. FreeDOS and Command Prompt have some difference!
 Enjoy the freedom!
 
+## Download ==> __
+### 1. FreeDOS for everyone
+Most users should use this to install FreeDOS. We recommend using a PC emulator or virtual machine to install FreeDOS. If you don't want to install, you can boot the LiveCD to try it out. Install extra programs from the BonusCD.
+
+[LiveCD](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-LiveCD.zip) [BonusCD](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-BonusCD.zip)
+
+### 2. FreeDOS for real hardware
+For real hardware
+If you want to install FreeDOS on real hardware without a CD-ROM drive, use the FullUSB instead. The LiteUSB installs the same version of FreeDOS, but contains fewer of the extra programs
+
+[FullUSB](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-FullUSB.zip) [LiteUSB](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.4/FD14-LiteUSB.zip)
+
+
+
+
 2025. DreamPack Software (R)
